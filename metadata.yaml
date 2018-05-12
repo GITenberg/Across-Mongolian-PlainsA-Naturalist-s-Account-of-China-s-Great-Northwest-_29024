@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4301
     wikipedia: http://en.wikipedia.org/wiki/Roy_Chapman_Andrews
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29024#Across-Mongolian-PlainsA-Naturalist-s-Account-of-China-s-Great-Northwest-
 gutenberg_issued: '2009-06-03'
 gutenberg_type: Text
 identifiers:
