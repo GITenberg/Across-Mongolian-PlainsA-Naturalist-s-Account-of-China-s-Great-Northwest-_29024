@@ -1,0 +1,32 @@
+_repo: Across-Mongolian-PlainsA-Naturalist-s-Account-of-China-s-Great-Northwest-_29024
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, Roy Chapman
+    birthdate: 1884
+    deathdate: 1960
+    gutenberg_agent_id: '4301'
+    url: http://www.gutenberg.org/2009/agents/4301
+    wikipedia: http://en.wikipedia.org/wiki/Roy_Chapman_Andrews
+description: ''
+gutenberg_issued: '2009-06-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29024'
+  lccn: '21004000'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Zoology -- Mongolia'
+- !lcsh 'Hunting -- Mongolia'
+- !lcsh 'Mongolia -- Description and travel'
+title: 'Across Mongolian Plains
+
+  A Naturalist''s Account of China''s ''Great Northwest'''
+url: http://www.gutenberg.org/ebooks/29024
